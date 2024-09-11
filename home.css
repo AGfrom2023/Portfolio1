@@ -1,0 +1,52 @@
+.header{
+    display: flex;
+    align-items: baseline;
+    margin-left: 5rem;
+}
+.sub-header{
+    display: inline-flex;
+    align-items: center;
+    margin-left: auto;
+    font-size: 20px;
+    margin-right: 1.5rem;
+}
+a{
+    margin-right: 40px;
+}
+a:active{
+    color: whitesmoke;
+}
+a:hover{
+    color: whitesmoke;
+}
+
+.about-myself{
+   margin-top: 22%;
+   margin-left: 15px;
+}
+.about-myself1{
+    font-size: 350%;
+    line-height: 50%;
+}
+.about-myself2{
+    font-size: 260%;
+    line-height: 7%;
+}
+.paragraph{
+    
+}
+.img1{
+    height: 100%;
+    width: 240%;
+    padding: auto;
+}
+.about{
+    display: flex;
+    margin-left: 4%;
+    border: 5px solid black;
+    margin-top: 2%;
+}
+.about-write{
+    padding-left: 25%;
+    margin-right: 10%;
+}
